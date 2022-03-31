@@ -48,8 +48,6 @@ _**Scan has been ported to Python3 i.e. v1.2**. The Python2.7 codebase is availa
 ## Usage 
  `python3 rapidscan.py example.com`
 
-https://user-images.githubusercontent.com/6489729/138737524-9c4dc567-ec78-40b4-9a7b-8ff52d5dc98b.mp4
-
 
 ### Docker Support
 Under development.
