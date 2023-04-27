@@ -46,11 +46,8 @@ _**Scan has been ported to Python3 i.e. v1.2**. The Python2.7 codebase is availa
 - Tested with Parrot & Ubuntu Operating Systems.
 
 ## Usage 
- `python3 rapidscan.py example.com`
+ `python3 scan.py example.com`
 
-
-### Docker Support
-Under development.
 
 ## Contribution
 - Create your feature branch: `git checkout -b my-new-feature`
